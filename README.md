@@ -65,7 +65,7 @@ Extractive QA requires a model to identify and extract a precise answer span fro
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/GwynQ/Extractive-QA-Finetuning.git
 cd your-repo-name
 ```
 
